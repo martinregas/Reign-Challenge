@@ -18,6 +18,7 @@
 		213A1F99258B0EC200044DEB /* PostsListCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213A1F98258B0EC200044DEB /* PostsListCoordinator.swift */; };
 		213A1FAA258B15A800044DEB /* PostDetailCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213A1FA9258B15A800044DEB /* PostDetailCoordinator.swift */; };
 		213A1FBE258B244800044DEB /* BaseCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213A1FBD258B244800044DEB /* BaseCoordinator.swift */; };
+		2158A9A825BB782F00C4CCCC /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2158A9A725BB782F00C4CCCC /* WebKit.framework */; };
 		216406E3253FF50300E8F756 /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216406E2253FF50300E8F756 /* Endpoints.swift */; };
 		216AE00C253D29BA00A134B2 /* PostListAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216AE00B253D29BA00A134B2 /* PostListAdapter.swift */; };
 		216DE844253FB87D00FFFEE8 /* PostDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216DE843253FB87D00FFFEE8 /* PostDetailViewController.swift */; };
@@ -74,6 +75,7 @@
 		213A1F98258B0EC200044DEB /* PostsListCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostsListCoordinator.swift; sourceTree = "<group>"; };
 		213A1FA9258B15A800044DEB /* PostDetailCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailCoordinator.swift; sourceTree = "<group>"; };
 		213A1FBD258B244800044DEB /* BaseCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseCoordinator.swift; sourceTree = "<group>"; };
+		2158A9A725BB782F00C4CCCC /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		216406E2253FF50300E8F756 /* Endpoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoints.swift; sourceTree = "<group>"; };
 		216AE00B253D29BA00A134B2 /* PostListAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListAdapter.swift; sourceTree = "<group>"; };
 		216DE843253FB87D00FFFEE8 /* PostDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailViewController.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2158A9A825BB782F00C4CCCC /* WebKit.framework in Frameworks */,
 				85F9B4A197401AA8A07E2037 /* Pods_Reign_Challenge.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -347,6 +350,7 @@
 		C464422336C8297C6C807827 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2158A9A725BB782F00C4CCCC /* WebKit.framework */,
 				9919CAFFC73D774274398978 /* Pods_Reign_Challenge.framework */,
 			);
 			name = Frameworks;
