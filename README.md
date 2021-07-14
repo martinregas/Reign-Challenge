@@ -2,8 +2,8 @@
 
 Reign Challenge application for iPhone.
 
-Challenge description: https://drive.google.com/file/d/1zap_jvm4xL1WFtItT8bnVf4Qxlt_AdNZ/view
-Challenge design: https://drive.google.com/file/d/15YbYNVCdusnK1gvwoZBWfFHj4BxraNKu/view
+- Challenge description: https://drive.google.com/file/d/1zap_jvm4xL1WFtItT8bnVf4Qxlt_AdNZ/view
+- Challenge design: https://drive.google.com/file/d/15YbYNVCdusnK1gvwoZBWfFHj4BxraNKu/view
 
 ### Requirements - CocoaPods
 
